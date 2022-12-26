@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 
 const navigation = [
   {
-    title: "Dashboard",
+    title: "Home",
     href: "/starter",
     icon: "bi bi-speedometer2",
   },
